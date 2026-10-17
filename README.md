@@ -10,3 +10,5 @@ Projects from freeCodeCamp's Responsive Web Design certification, one folder per
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/recipe-page/))
 - [`bookstore-page/`](bookstore-page/) — page structure with `div`s, classes and ids, buttons
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/bookstore-page/))
+- [`travel-agency-page/`](travel-agency-page/) — links (`target`, `rel`), figures with captions, meta description, image attribution
+  ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/travel-agency-page/))
