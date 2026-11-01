@@ -12,3 +12,5 @@ Projects from freeCodeCamp's Responsive Web Design certification, one folder per
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/bookstore-page/))
 - [`travel-agency-page/`](travel-agency-page/) — links (`target`, `rel`), figures with captions, meta description, image attribution
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/travel-agency-page/))
+- [`music-player/`](music-player/) — the `<audio>` element (`controls`, `loop`), basic CSS background
+  ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/music-player/))
