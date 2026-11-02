@@ -18,3 +18,5 @@ Projects from freeCodeCamp's Responsive Web Design certification, one folder per
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/video-player/))
 - [`media-hub/`](media-hub/) — `<section>`, `<video>` with `<source>`, and `<audio>` with `loop` on one page
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/media-hub/))
+- [`media-hub-v2/`](media-hub-v2/) — same layout with CC0 media from MDN; two `<source>` formats (`webm` + `mp4`) and fallback text
+  ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/media-hub-v2/))
