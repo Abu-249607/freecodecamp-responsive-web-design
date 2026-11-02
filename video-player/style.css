@@ -1,0 +1,12 @@
+body {
+  background-color: #121212; /* matte black */
+  color: #e8e8e8;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

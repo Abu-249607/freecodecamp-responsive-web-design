@@ -14,3 +14,5 @@ Projects from freeCodeCamp's Responsive Web Design certification, one folder per
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/travel-agency-page/))
 - [`music-player/`](music-player/) — the `<audio>` element (`controls`, `loop`), basic CSS background
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/music-player/))
+- [`video-player/`](video-player/) — the `<video>` element (`controls`, `loop`, `muted`, `poster`, multiple `<source>` formats), matte black theme
+  ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/video-player/))
