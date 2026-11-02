@@ -1,0 +1,51 @@
+body {
+  background-color: #121212; /* matte black */
+  color: #e8e8e8;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 2rem 1rem;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.25rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+section {
+  background-color: #1c1c1c;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+section:hover {
+  transform: translateY(-4px);
+  border-color: #ff7a45;
+}
+
+h2 {
+  color: #ff7a45;
+  font-size: 1.25rem;
+  margin-top: 0;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+audio {
+  width: 100%;
+}

@@ -20,3 +20,5 @@ Projects from freeCodeCamp's Responsive Web Design certification, one folder per
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/media-hub/))
 - [`media-hub-v2/`](media-hub-v2/) — same layout with CC0 media from MDN; two `<source>` formats (`webm` + `mp4`) and fallback text
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/media-hub-v2/))
+- [`media-hub-v3/`](media-hub-v3/) — same page styled: matte black theme, card sections, Google Font, responsive media, hover effect
+  ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/media-hub-v3/))
