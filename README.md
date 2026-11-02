@@ -16,3 +16,5 @@ Projects from freeCodeCamp's Responsive Web Design certification, one folder per
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/music-player/))
 - [`video-player/`](video-player/) — the `<video>` element (`controls`, `loop`, `muted`, `poster`, multiple `<source>` formats), matte black theme
   ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/video-player/))
+- [`media-hub/`](media-hub/) — `<section>`, `<video>` with `<source>`, and `<audio>` with `loop` on one page
+  ([live demo](https://abu-249607.github.io/freecodecamp-responsive-web-design/media-hub/))
