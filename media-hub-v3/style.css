@@ -1,7 +1,7 @@
 body {
   background-color: #121212; /* matte black */
   color: #e8e8e8;
-  font-family: "Poppins", sans-serif;
+  font-family: "Inter", sans-serif;
   margin: 0;
   padding: 2rem 1rem;
 }
@@ -12,10 +12,11 @@ main {
 }
 
 h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
   text-align: center;
-  font-size: 2.25rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  font-size: 3.5rem;
+  letter-spacing: 0.08em;
   margin-bottom: 2rem;
 }
 
@@ -35,8 +36,11 @@ section:hover {
 }
 
 h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
   color: #ff7a45;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
+  letter-spacing: 0.06em;
   margin-top: 0;
 }
 
